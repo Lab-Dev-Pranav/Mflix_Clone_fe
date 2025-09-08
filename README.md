@@ -29,13 +29,13 @@ Built using **HTML, CSS, and JavaScript** with a focus on UI/UX and responsivene
 
 ## 📂 Project Structure
 
-📁 project-root
- ┣ 📂 assets        # Images, icons
- ┣ 📂 css           # Stylesheets
- ┣ 📂 js            # JavaScript files
- ┣ 📜 index.html    # Landing page
- ┣ 📜 signin.html   # Sign-in page
- ┗ 📜 README.md     # Documentation
+📁 project-root <br>
+ ┣ 📂 assets        # Images, icons <br>
+ ┣ 📂 css           # Stylesheets <br>
+ ┣ 📂 js            # JavaScript files <br>
+ ┣ 📜 index.html    # Landing page <br>
+ ┣ 📜 signin.html   # Sign-in page <br>
+ ┗ 📜 README.md     # Documentation <br>
 
 
 
