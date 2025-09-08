@@ -4,7 +4,7 @@ GitHub Live URL
 https://lab-dev-pranav.github.io/Mflix_Clone_fe/
 
 Render Live URL
-https://netflixclone-dev-p.onrender.com/
+
 
 A modern, responsive web application inspired by popular streaming services.  
 It features a landing page, sign-in page, FAQ accordion, email validation, and more.  
