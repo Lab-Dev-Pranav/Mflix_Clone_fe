@@ -4,7 +4,7 @@ GitHub Live URL
 https://lab-dev-pranav.github.io/Mflix_Clone_fe/
 
 Render Live URL
-
+https://mflixclone-dev-p.onrender.com/
 
 A modern, responsive web application inspired by popular streaming services.  
 It features a landing page, sign-in page, FAQ accordion, email validation, and more.  
@@ -45,3 +45,5 @@ Built using **HTML, CSS, and JavaScript** with a focus on UI/UX and responsivene
 
 
 
+
+“This project is an educational UI clone inspired by a popular streaming service. It is not affiliated with or endorsed by any company.”
